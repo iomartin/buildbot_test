@@ -9,3 +9,4 @@ foo
 a
 a
 a
+a
